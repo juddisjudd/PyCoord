@@ -1,6 +1,8 @@
 # PyCoord
 PyCoord is a Python-based utility that allows users to select a rectangular region on their screen and automatically copies the coordinates of the selected region to the clipboard. It provides a GUI which makes it easy and intuitive to select areas directly on the screen.
 
+![](https://i.imgur.com/WQcwRF8.gif)
+
 # Features
 - Fullscreen Overlay: PyCoord overlays a transparent layer on the entire screen, allowing users to select areas directly.
 
